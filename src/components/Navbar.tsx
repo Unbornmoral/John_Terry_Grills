@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex justify-between h-20 items-center">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="font-bebas text-3xl tracking-wider text-charcoal">
-              GRILL<span className="text-burnt-orange">BLAZE</span> BBQ
+              John Terry<span className="text-burnt-orange">Grill</span> BBQ
             </Link>
           </div>
           <div className="hidden md:flex space-x-8 items-center">
