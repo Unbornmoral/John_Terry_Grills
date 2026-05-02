@@ -20,8 +20,8 @@ const bebas = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "GrillBlaze BBQ | Slow-Smoked. Fast-Served. Always Bold.",
-  description: "Authentic Texas-style BBQ. Slow-smoked meats, bold sauces, and rugged atmosphere. Order online or reserve your table today.",
+  title: "John Terry Grills | Slow-Smoked. Fast-Served. Always Bold.",
+  description: "Premium grilling and barbecue services. Slow-smoked meats, bold sauces, and rugged atmosphere. Order online or reserve your table today.",
 };
 
 export default function RootLayout({
