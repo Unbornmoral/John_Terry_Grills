@@ -24,7 +24,7 @@ export default function Home() {
                 <span className="text-burnt-orange">Always Bold.</span>
               </h1>
               <p className="text-xl text-warm-cream/90 font-inter mb-10 max-w-lg">
-                Experience authentic Texas-style BBQ, smoked for 14 hours over post oak. Tender brisket, falling-off-the-bone ribs, and bold sides.
+                Premium grilling and barbecue services, smoked for 14 hours over post oak. Tender brisket, falling-off-the-bone ribs, and bold sides.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link 
@@ -50,7 +50,7 @@ export default function Home() {
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-playfair font-bold text-charcoal mb-4">The Pitmaster Choice</h2>
               <p className="text-warm-gray font-inter max-w-2xl mx-auto">
-                We don&apos;t cut corners. From our custom-built smokers to our secret dry rubs, every detail matters.
+                We don't cut corners. From our custom-built smokers to our secret dry rubs, every detail matters.
               </p>
             </div>
 
